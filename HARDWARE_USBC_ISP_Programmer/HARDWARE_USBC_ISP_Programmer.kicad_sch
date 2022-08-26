@@ -4121,7 +4121,7 @@
   (symbol (lib_id "MCU_Microchip_ATmega:ATmega32U4-M") (at 95.25 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9f43d1c3-9884-48c3-9a0e-a3ae0b6b2875)
-    (property "Reference" "U?" (id 0) (at 97.2694 129.0304 0)
+    (property "Reference" "U1" (id 0) (at 97.2694 129.0304 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "ATmega32U4-M" (id 1) (at 97.2694 131.5673 0)
@@ -4945,14 +4945,14 @@
     (path "/650d4d0d-2f99-412d-b179-63f901f422f8"
       (reference "S3") (unit 1) (value "TS-1187A-B-A-B") (footprint "Rampado_Master:SW_TS-1187A-B-A-B")
     )
+    (path "/9f43d1c3-9884-48c3-9a0e-a3ae0b6b2875"
+      (reference "U1") (unit 1) (value "ATmega32U4-M") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
+    )
     (path "/9d4d08dc-598c-409d-8f88-24678d093d71"
       (reference "U2") (unit 1) (value "SMF05CT1G") (footprint "Rampado_Master:SOT65P210X110-6N")
     )
     (path "/1ee2b761-52e6-4dcc-8c8d-68ed89e29a11"
       (reference "U3") (unit 1) (value "SMF05CT1G") (footprint "Rampado_Master:SOT65P210X110-6N")
-    )
-    (path "/9f43d1c3-9884-48c3-9a0e-a3ae0b6b2875"
-      (reference "U?") (unit 1) (value "ATmega32U4-M") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
     )
     (path "/ad3562f5-456c-4345-9674-ab2e13f88574"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
