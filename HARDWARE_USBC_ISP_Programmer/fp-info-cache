@@ -1,4 +1,4 @@
-20416258140065480
+20419582343569359
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77091,6 +77091,13 @@ NUCLEO144_SHIELD
 100
 100
 Rampado_Master
+PrisonMike_Small
+
+
+0
+0
+0
+Rampado_Master
 SOT65P210X110-6N
 
 
@@ -77139,6 +77146,13 @@ TS3625A-HT
 0
 2
 2
+Rampado_Master
+TheOfficeLogo_Small
+
+
+0
+0
+0
 Rampado_Master
 USBA_Female
 

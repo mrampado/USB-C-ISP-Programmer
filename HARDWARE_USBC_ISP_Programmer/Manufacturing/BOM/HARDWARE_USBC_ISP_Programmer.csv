@@ -1,0 +1,41 @@
+Designator,Quantity,Value,Cmp name,Footprint,LCSC
+,,,,,
+"C1, C5, C6, C10, ",4,1u,C_Small,Capacitor_SMD:C_0603_1608Metric,C15849
+,,,,,
+"C2, C3, ",2,100n,C_Small,Capacitor_SMD:C_0603_1608Metric,C14663
+,,,,,
+"C4, ",1,10n,C_Small,Capacitor_SMD:C_0603_1608Metric,C57112
+,,,,,
+"C7, C8, C9, ",3,22u,C_Small,Capacitor_SMD:C_0603_1608Metric,C59461
+,,,,,
+"D1, D3, ",2,YELLOW,LED,LED_SMD:LED_0603_1608Metric,C72038
+,,,,,
+"D2, ",1,BLUE,LED,LED_SMD:LED_0603_1608Metric,C72041
+,,,,,
+"D4, ",1,RED,LED,LED_SMD:LED_0603_1608Metric,C2286
+,,,,,
+"D5, ",1,GREEN,LED,LED_SMD:LED_0603_1608Metric,C72043
+,,,,,
+"D6, ",1,WHITE,LED,LED_SMD:LED_0603_1608Metric,C2290
+,,,,,
+"F1, ",1,6V 500mA,Fuse_Small,Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C135323
+,,,,,
+"FB1, ",1,120R @ 100 MHz,FerriteBead_Small,Inductor_SMD:L_0805_1608Metric,C1015
+,,,,,
+"J1, ",1,105450-0101,105450-0101,Rampado_Master:MOLEX_105450-0101,C134092
+,,,,,
+"R1, R2, R12, R15, R16, R17, ",6,22,R_Small,Resistor_SMD:R_0603_1608Metric,C23345
+,,,,,
+"R3, R4, R5, R13, ",4,10k,R_Small,Resistor_SMD:R_0603_1608Metric,C25804
+,,,,,
+"R6, R7, R8, R9, R10, R11, ",6,1k,R_Small,Resistor_SMD:R_0603_1608Metric,C21190
+,,,,,
+"R14, R18, ",2,5.1k,R_Small,Resistor_SMD:R_0603_1608Metric,C23186
+,,,,,
+"S1, S2, S3, ",3,TS-1187A-B-A-B,TS-1187A-B-A-B,Rampado_Master:SW_TS-1187A-B-A-B,C318884
+,,,,,
+"U1, ",1,ATmega32U4-M,ATmega32U4-M,Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,C112161
+,,,,,
+"U2, U3, ",2,SMF05CT1G,SMF05CT1G,Rampado_Master:SOT65P210X110-6N,C15879
+,,,,,
+"Y1, ",1,16MHz,Crystal_GND24_Small,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C112972

@@ -3483,7 +3483,7 @@
   (symbol (lib_id "power:+5V") (at 274.32 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 36461b23-f731-4bcd-862d-02ad30c87a33)
-    (property "Reference" "#PWR?" (id 0) (at 274.32 77.47 0)
+    (property "Reference" "#PWR0102" (id 0) (at 274.32 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 274.32 70.0842 0))
@@ -4325,7 +4325,7 @@
     (uuid b4d7bb65-5ec4-4633-b516-28ce90b29a9d)
     (property "Reference" "FB1" (id 0) (at 128.27 27.94 90))
     (property "Value" "120R @ 100 MHz" (id 1) (at 128.27 33.02 90))
-    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (id 2) (at 124.46 30.988 90)
+    (property "Footprint" "Inductor_SMD:L_0805_2012Metric" (id 2) (at 124.46 30.988 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 124.46 29.21 0)
@@ -4830,7 +4830,7 @@
       (reference "#PWR0101") (unit 1) (value "+5V") (footprint "")
     )
     (path "/36461b23-f731-4bcd-862d-02ad30c87a33"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ddf7157e-35ef-40c5-adc3-10269d86220e"
       (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -4884,7 +4884,7 @@
       (reference "F1") (unit 1) (value "6V 500mA") (footprint "Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/b4d7bb65-5ec4-4633-b516-28ce90b29a9d"
-      (reference "FB1") (unit 1) (value "120R @ 100 MHz") (footprint "Inductor_SMD:L_0603_1608Metric")
+      (reference "FB1") (unit 1) (value "120R @ 100 MHz") (footprint "Inductor_SMD:L_0805_2012Metric")
     )
     (path "/94c518cf-8c9d-41a5-8f6f-52dc710eba1d"
       (reference "J1") (unit 1) (value "105450-0101") (footprint "Rampado_Master:MOLEX_105450-0101")
