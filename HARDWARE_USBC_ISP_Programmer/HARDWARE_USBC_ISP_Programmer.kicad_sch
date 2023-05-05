@@ -3678,7 +3678,7 @@
     (property "Reference" "C7" (id 0) (at 27.7241 48.7016 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22u" (id 1) (at 27.7241 51.2385 0)
+    (property "Value" "22p" (id 1) (at 27.7241 51.2385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 25.4 49.53 0)
@@ -3806,7 +3806,7 @@
     (property "Reference" "C8" (id 0) (at 41.6941 48.7016 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22u" (id 1) (at 41.6941 51.2385 0)
+    (property "Value" "22p" (id 1) (at 41.6941 51.2385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 39.37 49.53 0)
@@ -4851,10 +4851,10 @@
       (reference "C6") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/5c4c6144-ba0d-4bd9-aee2-e83ba07dbb07"
-      (reference "C7") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C7") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/68edd251-1b11-46f8-ab47-8b2e7e1e96bb"
-      (reference "C8") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C8") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/19838642-ec96-4b78-9eaa-f72cf2f34bfb"
       (reference "C9") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0603_1608Metric")
